@@ -247,3 +247,39 @@ The robot operates through nine sequential stages:
 The project was demonstrated using a physical robotic prototype during the university exhibition.
 
 **Achievement:** Third Place – ASU Expo FITers GP 2026.
+
+## 6. Installation & Usage
+
+### Hardware Requirements
+
+- Raspberry Pi
+- Arduino
+- RGB Camera
+- Soil Moisture Sensor
+- Ultrasonic Sensors
+- DC Motors
+- Water Pump and Tank
+
+### Software Requirements
+
+- Python
+- Flutter and Dart
+- OpenCV
+- YOLOv8
+- Firebase
+- Google Colab
+
+### Usage
+
+The system operates through the following workflow:
+
+1. Start the agricultural robot.
+2. Detect and capture plant images.
+3. Measure soil moisture.
+4. Analyze plant conditions using AI.
+5. Determine irrigation requirements.
+6. Activate the water pump when required.
+7. Send data to Firebase.
+8. Display results through the mobile application.
+
+**Note:** Detailed installation commands and execution instructions will be added with the corresponding source code files.
