@@ -179,3 +179,35 @@ These practices can make it difficult to continuously monitor plant health, iden
 This project addresses these challenges by developing an autonomous agricultural robot that integrates plant monitoring, soil moisture measurement, and AI-based analysis to support smart irrigation decisions.
 
 The main goal is to reduce manual intervention and improve agricultural monitoring and irrigation management.
+
+## 3. Technologies Used
+
+### Artificial Intelligence & Computer Vision
+- YOLOv8
+- OpenCV
+- Gemini
+- ChatGPT
+
+### Programming Languages
+- Python
+- Dart
+
+### Mobile Application Development
+- Flutter
+
+### Cloud & Database
+- Firebase
+
+### Development Tools
+- Google Colab
+- GitHub
+- Visual Studio Code
+
+### Hardware Technologies
+- Raspberry Pi
+- Arduino
+- RGB Camera
+- Soil Moisture Sensor
+- Ultrasonic Sensors
+- DC Motors
+- Water Pump & Tank
