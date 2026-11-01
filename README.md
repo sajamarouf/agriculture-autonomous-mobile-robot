@@ -168,3 +168,14 @@ Awarded third place for the agricultural robotics graduation project.
 **Agriculture Autonomous Mobile Robot — Graduation Project **
 
 *Applied Science Private University | 2026*
+
+
+## 2. Problem Statement
+
+Traditional agricultural practices often depend on manual plant monitoring and conventional irrigation methods.
+
+These practices can make it difficult to continuously monitor plant health, identify plant conditions, and manage water consumption efficiently.
+
+This project addresses these challenges by developing an autonomous agricultural robot that integrates plant monitoring, soil moisture measurement, and AI-based analysis to support smart irrigation decisions.
+
+The main goal is to reduce manual intervention and improve agricultural monitoring and irrigation management.
