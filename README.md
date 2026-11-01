@@ -1,5 +1,5 @@
 #  Agriculture Autonomous Mobile Robot
-### Graduation Project (2) — 2026
+### Graduation Project — 2026
 
 An intelligent autonomous agricultural robot that combines robotics, Artificial Intelligence (AI), and computer vision to monitor plant health, measure soil moisture, and support smart irrigation decisions.
 
