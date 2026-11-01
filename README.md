@@ -134,6 +134,37 @@ As a result, it improves water efficiency, reduces manual labor, and contributes
 
 ---
 
-**Agriculture Autonomous Mobile Robot — Graduation Project (2)**
+##  Project Gallery
+
+### Robot Exhibition
+
+![Robot Exhibition](robot-exhibition.png)
+
+### Physical Robot Prototype
+
+![Agricultural Robot Prototype](robot-prototype.jpeg)
+
+### Third Place Award
+
+![Third Place Award](third-place-award.jpeg)
+
+---
+
+##  Project Demonstration
+
+Watch the robot demonstration video recorded during the university exhibition.
+
+[▶ Watch the Project Demonstration](robot-demonstration.mp4)
+
+---
+
+## 🏆 Achievement
+
+**Third Place – ASU Expo FITers GP 2026**
+
+Awarded third place for the agricultural robotics graduation project.
+--
+
+**Agriculture Autonomous Mobile Robot — Graduation Project **
 
 *Applied Science Private University | 2026*
