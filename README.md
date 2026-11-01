@@ -225,3 +225,25 @@ The robot operates through nine sequential stages:
 7. **Water Pump Activation:** Activates the water pump if required.
 8. **Firebase Integration:** Sends data to Firebase.
 9. **Mobile Application:** Displays the results in the mobile application.
+
+## 5. Screenshots & Results
+
+### Physical Robot Prototype
+
+![Robot Prototype](robot-prototype.jpeg)
+
+### Project Exhibition
+
+![Robot Exhibition](robot-exhibition.png)
+
+### Project Achievement
+
+![Third Place Award](third-place-award.jpeg)
+
+### Demonstration Video
+
+[Watch the Agricultural Robot Demonstration](robot-demonstration.mp4)
+
+The project was demonstrated using a physical robotic prototype during the university exhibition.
+
+**Achievement:** Third Place – ASU Expo FITers GP 2026.
