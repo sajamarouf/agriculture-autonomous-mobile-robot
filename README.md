@@ -282,4 +282,10 @@ The system operates through the following workflow:
 7. Send data to Firebase.
 8. Display results through the mobile application.
 
-**Note:** Detailed installation commands and execution instructions will be added with the corresponding source code files.
+## 7. Future Improvements
+
+- **Solar Energy Integration:** Using solar energy as a renewable power source for the robot.
+- **Automatic Charging Station:** Developing an automatic battery charging station.
+- **Automatic Water Refilling:** Creating an automatic water refilling station.
+- **Mapping System:** Developing a Raspberry Pi-based mapping system for better monitoring and field management.
+- **Plant Nutrition Monitoring:** Integrating fertilizer and nutrient sensors to support precise plant nutrition management.
