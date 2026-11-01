@@ -211,3 +211,17 @@ The main goal is to reduce manual intervention and improve agricultural monitori
 - Ultrasonic Sensors
 - DC Motors
 - Water Pump & Tank
+
+## 4. Methodology
+
+The robot operates through nine sequential stages:
+
+1. **Robot Movement:** The robot starts moving.
+2. **Plant Detection:** Detects a plant.
+3. **Image Capture:** Captures an image of the plant.
+4. **Soil Moisture Measurement:** Measures soil moisture.
+5. **AI Analysis:** Analyzes the plant condition.
+6. **Irrigation Decision:** Determines whether irrigation is needed.
+7. **Water Pump Activation:** Activates the water pump if required.
+8. **Firebase Integration:** Sends data to Firebase.
+9. **Mobile Application:** Displays the results in the mobile application.
