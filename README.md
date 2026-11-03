@@ -200,6 +200,29 @@ By integrating mobile plant monitoring, soil moisture sensing, AI-based analysis
 
 ---
 
+## Project Source Code
+
+### Arduino
+[Arduino Code and Documentation](Arduino/)
+
+### Raspberry Pi
+[Raspberry Pi Code and Documentation](Raspberry-Pi/)
+
+### Mobile Application
+[Flutter Application and Documentation](Mobile-App/)
+
+### AI Model Training
+[Fruit Disease Classification Notebook](fruit_disease_classification.ipynb)
+
+## Project Media
+
+- [Robot Demonstration Video](robot-demonstration.mp4)
+- [Robot Exhibition](robot-exhibition.png)
+- [Physical Robot Prototype](robot-prototype.jpeg)
+- [Third Place Award](third-place-award.jpeg)
+
+---
+
 **Agriculture Autonomous Mobile Robot**
 
 Applied Science Private University | Faculty of Information Technology | 2026
