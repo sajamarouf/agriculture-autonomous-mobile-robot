@@ -223,6 +223,46 @@ By integrating mobile plant monitoring, soil moisture sensing, AI-based analysis
 
 ---
 
+## Project Structure
+
+The project is organized into the following components:
+
+### 1. AI Model
+[AI Model & Training](AI-Model/)
+
+Deep learning, fruit disease classification, model training, and evaluation.
+
+### 2. Arduino
+[Arduino Control System](Arduino/)
+
+Robot movement, ultrasonic sensing, soil moisture measurement, and irrigation control.
+
+### 3. Raspberry Pi
+[Raspberry Pi AI Processing](Raspberry-Pi/)
+
+Plant detection, disease classification, camera processing, and Arduino communication.
+
+### 4. Mobile Application
+[Flutter Mobile Application](Mobile-App/)
+
+Mobile dashboard, plant monitoring, irrigation history, and system alerts.
+
+---
+
+## Project Achievement
+
+**Third Place – ASU Expo FITers GP 2026**
+
+Applied Science Private University
+
+---
+
+## Project Demonstration
+
+[Watch the Robot Demonstration](robot-demonstration.mp4)
+
+---
+
 **Agriculture Autonomous Mobile Robot**
 
 Applied Science Private University | Faculty of Information Technology | 2026
